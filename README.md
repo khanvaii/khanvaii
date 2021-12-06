@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khanvaii
+- 👋 Hi, I’m @kausalkhan
 - 👀 I’m interested in developing and designing.
 - 🌱 I’m currently learning ASP .Net with C#
 - 💞️ I’m looking to collaborate on ...
